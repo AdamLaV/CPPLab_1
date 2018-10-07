@@ -8,7 +8,7 @@ Useful c++ practice &amp; tips -- Update Weekly
 	Vowel Checker
 
 # Numeric Functions
-	Char Sorter
-	Next Two Letters
-	Passcode Checker
-	Vowel Checker
+ 	Tangent Angle Finding
+	Cos Finder
+	Int Range
+	Log Switcher
