@@ -7,7 +7,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
          Rock beats scissors, paper beats rock, scissors beats paper. 
          If both players chose the same thing, they tie.
 ![alt text](https://github.com/francisknight/CPP-Tidbits/blob/master/Rock%20Paper%20Scissors/rps.png)
-#### Call Calculator 🤙
+####Call Calculator 🤙
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Call%20Calculator/main.cpp)
 ![alt text](https://github.com/francisknight/CPP-Tidbits/blob/master/Call%20Calculator/cc.png)
 
