@@ -10,6 +10,7 @@ Useful c++ practice &amp; tips -- Update Weekly 🔥
 
 ## Chars
 ####	Char Sorter
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Char%20Sorter/main.cpp)
     Sorts chars into 1 of 3 groups. Letters A-J are in group 1, K-P in group 2, Q-Z in group 3.
 ####	Next Two Letters
 ####	Passcode Checker
