@@ -2,11 +2,7 @@
 Useful c++ practice &amp; tips -- Update Weekly
 # Conditionals
 ###	Rock Paper Scissors
-	Or leave it empty and use the [https://www.geeksforgeeks.org/selection-sort/].
-	[I'm an inline-style link](https://www.google.com)
-	[You can use numbers for reference-style link definitions][1]
-	[1]: http://slashdot.org
-	<http://www.example.com> 
+	This site was built using [GitHub Pages](https://pages.github.com/).
 # Chars
 ###	Char Sorter
 ###	Next Two Letters
