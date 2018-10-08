@@ -2,6 +2,7 @@
 Useful c++ practice &amp; tips -- Update Weekly
 # Conditionals
 	Rock Paper Scissors
+	[id]: http://example.com/  "Optional Title Here"
 # Chars
 	Char Sorter
 	Next Two Letters
