@@ -3,6 +3,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 ## Conditionals
 #####	Rock Paper Scissors 🎲
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Rock%20Paper%20Scissors/main.cpp)
+         
          Judging a rock paper scissors competition
          Rock beats scissors, paper beats rock, scissors beats paper. 
          If both players chose the same thing, they tie.
