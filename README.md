@@ -2,7 +2,7 @@
 Useful c++ practice &amp; tips -- Update Weekly
 # Conditionals
 ###	Rock Paper Scissors
-	[id]: http://example.com/  "Optional Title Here"
+	[Code](https://www.google.com)
 # Chars
 ###	Char Sorter
 ###	Next Two Letters
