@@ -11,7 +11,7 @@ Useful c++ practice &amp; tips -- Update Weekly
 ####	Vowel Checker
 
 ## Numeric Functions
- ####	Tangent Angle Finding
+####	Tangent Angle Finding
 ####	Cos Finder
 ####	Int Range
 ####	Log Switcher
