@@ -6,6 +6,7 @@ Useful c++ practice &amp; tips -- Update Weekly
 	[I'm an inline-style link](https://www.google.com)
 	[You can use numbers for reference-style link definitions][1]
 	[1]: http://slashdot.org
+	<http://www.example.com> 
 # Chars
 ###	Char Sorter
 ###	Next Two Letters
