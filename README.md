@@ -10,6 +10,10 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 ![alt text](https://github.com/francisknight/CPP-Tidbits/blob/master/Rock%20Paper%20Scissors/rps.png)
 #####     Call Calculator 🤙
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Call%20Calculator/main.cpp)
+
+         Read in the duration of a call as an integer and output the total cost as a decimal.
+         Calls up to 10 minutes cost a flat $5. Calls over 10 minutes but less than 30 cost $.50 per minute. 
+         Calls 30 minutes or longer cost a base of $15.00 plus $.30 per minute over 30.
 ![alt text](https://github.com/francisknight/CPP-Tidbits/blob/master/Call%20Calculator/cc.png)
 
 ## Chars 
