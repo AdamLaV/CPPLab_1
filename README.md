@@ -2,7 +2,7 @@
 Useful c++ practice &amp; tips -- Update Weekly
 # Conditionals
 ###	Rock Paper Scissors
-	[Code](https://www.google.com)
+	Or leave it empty and use the [link text itself]
 # Chars
 ###	Char Sorter
 ###	Next Two Letters
