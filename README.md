@@ -11,8 +11,8 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Call%20Calculator/main.cpp)
 ![alt text](https://github.com/francisknight/CPP-Tidbits/blob/master/Call%20Calculator/cc.png)
 
-## Chars 🔤 🔢
-####	Char Sorter
+## Chars 
+####	Char Sorter 🔤 🔢
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Char%20Sorter/main.cpp)
 
         Sorts chars into 1 of 3 groups. Letters A-J are in group 1, K-P in group 2, Q-Z in group 3.
