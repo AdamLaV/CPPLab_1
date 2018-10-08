@@ -1,7 +1,7 @@
 # CPP-Tidbits
 Useful c++ practice &amp; tips -- Update Weekly
 # Conditionals
-	Rock Paper Scissors
+	### Rock Paper Scissors
 	[id]: http://example.com/  "Optional Title Here"
 # Chars
 	Char Sorter
