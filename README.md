@@ -2,7 +2,7 @@
 Useful c++ practice &amp; tips -- Update Weekly
 # Conditionals
 ###	Rock Paper Scissors
-[Code](https://github.com/francisknight/CPP-Tidbits/blob/master/Rock%20Paper%20Scissors/main.cpp).
+[Complete Code](https://github.com/francisknight/CPP-Tidbits/blob/master/Rock%20Paper%20Scissors/main.cpp)
 # Chars
 ###	Char Sorter
 ###	Next Two Letters
