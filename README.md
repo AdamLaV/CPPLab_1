@@ -1,10 +1,10 @@
 ## CPP-Tidbits
 Useful c++ practice &amp; tips -- Update Weekly
 ## Conditionals
-####	Rock Paper Scissors
+####	Rock Paper Scissors 🎲
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Rock%20Paper%20Scissors/main.cpp)
 ![alt text](https://github.com/francisknight/CPP-Tidbits/blob/master/Rock%20Paper%20Scissors/rps.png)
-#### Call Calculator
+#### Call Calculator 🤙
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Call%20Calculator/main.cpp)
 ![alt text](https://github.com/francisknight/CPP-Tidbits/blob/master/Call%20Calculator/cc.png)
 
