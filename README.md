@@ -30,6 +30,10 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
   ![alt text](https://github.com/francisknight/CPP-Tidbits/blob/master/Next%20Two%20Letters/ntl.png)
 #####	Passcode Checker 🔐
 [Code here](https://github.com/francisknight/CPP-Tidbits/edit/master/Passcode%20Checker/main.cpp)
+         
+         Reads in three characters and prints YES if they meet the criteria and NO if they do not.
+         Criteria: One character is a digit (number) and one character is not a letter or number.
+                   EX: A8@, L9%
 #####	Vowel Checker
 
 ## Numeric Functions
