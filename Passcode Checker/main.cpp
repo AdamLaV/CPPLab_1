@@ -1,10 +1,16 @@
 #include <iostream>
-
-You probably want the char type library...
-
+#include <cctype>
 using namespace std;
 
 int main()
 {
-    //YOUR_CODE
+    char chOne, chTwo, chThree;
+	cin >> chOne >> chTwo >> chThree;
+
+	if(isdigit(chOne) || isdigit(chTwo) || isdigit(chThree)) {
+		cout << "YES";
+	}
+	else {
+		cout << "NO";
+	}	
 }
