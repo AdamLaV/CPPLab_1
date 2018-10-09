@@ -39,6 +39,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 
 ## Numeric Functions
 #####	Tangent Angle Finding
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Tangent%20Angle%20Finding/main.cpp)
 #####	Cos Finder
 #####	Int Range
 #####	Log Switcher
