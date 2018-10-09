@@ -35,6 +35,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
          Criteria: One character is a digit (number) and one character is not a letter or number.
                    EX: A8@, L9%
 #####	Vowel Checker 🔡
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Vowel%20Checker/main.cpp)
 
 ## Numeric Functions
 #####	Tangent Angle Finding
