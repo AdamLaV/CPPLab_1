@@ -34,7 +34,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
          Reads in three characters and prints YES if they meet the criteria and NO if they do not.
          Criteria: One character is a digit (number) and one character is not a letter or number.
                    EX: A8@, L9%
-#####	Vowel Checker
+#####	Vowel Checker 🔡
 
 ## Numeric Functions
 #####	Tangent Angle Finding
