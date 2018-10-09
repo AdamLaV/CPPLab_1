@@ -27,6 +27,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 
          Read in a character and print out the two letters that come after it. 
          Once you go past 'z' you should wrap back to 'a'.
+  ![alt text](https://github.com/francisknight/CPP-Tidbits/blob/master/Next%20Two%20Letters/ntl.png)
 #####	Passcode Checker
 #####	Vowel Checker
 
