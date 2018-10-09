@@ -24,6 +24,9 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
   ![alt text](https://github.com/francisknight/CPP-Tidbits/blob/master/Char%20Sorter/cs.png)
 #####	Next Two Letters 🔡 🔡
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Next%20Two%20Letters/main.cpp)
+
+         Read in a character and print out the two letters that come after it. 
+         Once you go past 'z' you should wrap back to 'a'.
 #####	Passcode Checker
 #####	Vowel Checker
 
