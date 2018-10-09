@@ -1,7 +1,18 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main()
 {
-    //YOUR_CODE
+    string vowel = "aeiouAEIOU";
+	char userInput;
+	cin >> userInput;
+	for(int i = 0; i < vowel.length(); i++) {
+		if (userInput == vowel.at(i)) {
+			cout << "vowel";
+		}
+		else {
+			
+		}
+	}
 }
