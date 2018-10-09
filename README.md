@@ -41,9 +41,9 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 #####	Tangent Angle Finding
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Tangent%20Angle%20Finding/main.cpp)
 
-         Read in the opposite and adjacent sides for one of the acute angles in a right triangle (as doubles). Print the size                                     of the angle in radians.
-
-Use the rule angleX = atan(opposite/adjacent) to find the measure of the angle.
+         Read in the opposite and adjacent sides for one of the acute angles in a right triangle (as doubles). 
+         Print the size of the angle in radians. 
+         Use the rule angleX = atan(opposite/adjacent) to find the measure of the angle.
 #####	Cos Finder
 #####	Int Range
 #####	Log Switcher
