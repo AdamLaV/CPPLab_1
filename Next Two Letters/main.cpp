@@ -6,11 +6,19 @@ int main()
     char userInput, nextLetter;
 	cin >> userInput;
 	
-	userInput++;
-	nextLetter = userInput++;
-	
-	if(nextLetter + 1 > 'z') {
-		userInput = 'a';
+	if(userInput + 1 == 'z') {
+		nextLetter = userInput++;
+		nextLetter++;
+		userInput = 'a';	
+	}
+	else if(userInput + 1 > 'z') {
+		nextLetter = 'a';
+		userInput = nextLetter;
+		userInput++;
+	}
+	else {
+		userInput++;
+		nextLetter = userInput++;
 	}
 	
 	cout << nextLetter << userInput;
