@@ -56,7 +56,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Int%20Range/main.cpp)
 
          Read in a decimal value. Print out the two integers it is between
-#####	Log Switcher
+#####	Log Switcher ➗
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Log%20Switcher/main.cpp)
          
          Read in a number (double). Print the power of two that the number represents.
