@@ -48,5 +48,6 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
          Print the size of the angle in radians. 
          Use the rule angleX = atan(opposite/adjacent) to find the measure of the angle.
 #####	Cos Finder
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Cos%20Finder/main.cpp)
 #####	Int Range
 #####	Log Switcher
