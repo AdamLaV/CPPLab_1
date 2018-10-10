@@ -41,7 +41,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
          or consonant if it is not.
 
 ## Numeric Functions
-#####	Tangent Angle Finding
+#####	Tangent Angle Finding ➗
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Tangent%20Angle%20Finding/main.cpp)
 
          Read in the opposite and adjacent sides for one of the acute angles in a right triangle (as doubles). 
