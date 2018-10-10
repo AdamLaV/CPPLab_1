@@ -37,6 +37,9 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 #####	Vowel Checker 🔡
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Vowel%20Checker/main.cpp)
 
+         Read in a character. Print vowel if it is a vowel (a, e, i, o, u, A, E, I, O, U) 
+         or consonant if it is not.
+
 ## Numeric Functions
 #####	Tangent Angle Finding
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Tangent%20Angle%20Finding/main.cpp)
