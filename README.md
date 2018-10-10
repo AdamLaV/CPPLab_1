@@ -52,5 +52,6 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
            
            Read in an angle in degrees and the length of the adjacent side to that angle in a right triangle 
            (both as doubles). Print the length of the hypotenuse of the triangle.                                                                                                              
-#####	Int Range
+#####	Int Range ➗
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Int%20Range/main.cpp)
 #####	Log Switcher
