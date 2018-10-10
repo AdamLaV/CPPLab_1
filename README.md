@@ -56,3 +56,5 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Int%20Range/main.cpp)
 #####	Log Switcher
 [Code here](https://github.com/francisknight/CPP-Tidbits/tree/master/Log%20Switcher)
+         
+         Read in a number (double). Print the power of two that the number represents.
