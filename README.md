@@ -54,6 +54,8 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
            (both as doubles). Print the length of the hypotenuse of the triangle.                                                                                                              
 #####	Int Range ➗
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Int%20Range/main.cpp)
+
+         Read in a decimal value. Print out the two integers it is between
 #####	Log Switcher
 [Code here](https://github.com/francisknight/CPP-Tidbits/tree/master/Log%20Switcher)
          
