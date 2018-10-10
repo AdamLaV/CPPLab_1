@@ -47,7 +47,10 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
          Read in the opposite and adjacent sides for one of the acute angles in a right triangle (as doubles). 
          Print the size of the angle in radians. 
          Use the rule angleX = atan(opposite/adjacent) to find the measure of the angle.
-#####	Cos Finder
+#####	Cos Finder ➗
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Cos%20Finder/main.cpp)
+           
+           Read in an angle in degrees and the length of the adjacent side to that angle in a right triangle 
+           (both as doubles). Print the length of the hypotenuse of the triangle.                                                                                                              
 #####	Int Range
 #####	Log Switcher
