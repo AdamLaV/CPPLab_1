@@ -1,12 +1,14 @@
 ## NOTES
-Converting from degrees to radians
 
-Decrees are converted to radians in the following way:
+#### Degrees and radians
+    Converting from degrees to radians
 
-radians = ( degrees * pi ) / 180 ;
+    Decrees are converted to radians in the following way:
 
-Converting from radians to degrees
+    radians = ( degrees * pi ) / 180 ;
 
-Radians are converted to degrees in the following way:
+    Converting from radians to degrees
 
-degrees=( radians * 180 ) / pi ;
+    Radians are converted to degrees in the following way:
+
+    degrees=( radians * 180 ) / pi ;
