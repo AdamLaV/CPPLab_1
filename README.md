@@ -63,7 +63,13 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 
 ## Loops
 
-#### week 4 coming soon...
+#### Counting 1
+
+#### Counting 2
+
+#### Counting 3
+
+#### Squares Adder
 
 ## Nested Loops
 
