@@ -64,6 +64,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 ## Loops
 
 #### Counting 1
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Counting%201/main.cpp)
 
 #### Counting 2
 
