@@ -69,6 +69,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
          Write a program that reads in a number, and writes out from 1 to that number.
 
 #### Counting 2
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Counting%202/main.cpp)
 
 #### Counting 3
 
