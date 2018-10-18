@@ -77,4 +77,8 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 
 ## Nested Loops
 
-#### week 4 coming soon...
+ ####	Square printer
+ 
+####	Triangle Printer
+
+####	Cell Labeler
