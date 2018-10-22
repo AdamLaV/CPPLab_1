@@ -86,3 +86,11 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Triangle%20Printer/main.cpp)
 
 ## String Basics
+
+####     First Middle Last Letter
+
+####    	Caturday Check
+
+####    	Sher
+
+####    	Tag Remover
