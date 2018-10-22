@@ -79,7 +79,8 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 
 ## Nested Loops
 
- ####	Square printer
+####	Square printer
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Square%20printer/main.cpp)
  
 ####	Triangle Printer
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Triangle%20Printer/main.cpp)
