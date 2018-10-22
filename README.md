@@ -72,6 +72,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Counting%202/main.cpp)
 
 #### Counting 3
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Counting%203/main.cpp)
 
 #### Squares Adder
 
