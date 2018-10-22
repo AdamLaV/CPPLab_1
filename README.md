@@ -85,4 +85,4 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 ####	Triangle Printer
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Triangle%20Printer/main.cpp)
 
-####	Cell Labeler
+## String Basics
