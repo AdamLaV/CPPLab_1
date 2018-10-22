@@ -75,6 +75,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Counting%203/main.cpp)
 
 #### Squares Adder
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Squares%20Adder/main.cpp)
 
 ## Nested Loops
 
