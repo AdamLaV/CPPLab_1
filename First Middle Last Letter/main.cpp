@@ -4,15 +4,22 @@ using namespace std;
 int main()
 {
     string word, firstCharacter, lastcharacter, middleCharacter;
-	int length;
-	cin >> word;
+	cin >> word; // read in the string
 	
-	length = word.length();
+	int length = word.length(); // get the length of string 
+	firstCharacter = word.at(0); // get first character
+	lastcharacter = word.back(); // get the last character
+	
+	// even middle character
 	if(length % 2 == 0) {
-		//middleCharacter = 
+		middleCharacter = word.substr((length / 2), 1);
 	}
-	firstCharacter = word.at(0);
-	lastcharacter = word.back();
-	cout << firstCharacter << lastcharacter;
+	 // odd middle character
+	else if (length % 2 == 1) {
+		middleCharacter = word.substr((length / 2), 1);
+	}
+
+	// output the result 
+	cout << firstCharacter << middleCharacter << lastcharacter;
 	
 }
