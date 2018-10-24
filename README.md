@@ -88,6 +88,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 ## String Basics
 
 ####     First Middle Last Letter
+[code here](https://github.com/francisknight/CPP-Tidbits/blob/master/First%20Middle%20Last%20Letter/main.cpp)
 
 ####    	Caturday Check
 
