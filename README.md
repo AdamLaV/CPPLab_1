@@ -84,7 +84,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 ####	Triangle Printer
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Triangle%20Printer/main.cpp)
 
-## String Basics 
+## String Basics 🔡 🔠
 
 ####     First Middle Last Letter
 [code here](https://github.com/francisknight/CPP-Tidbits/blob/master/First%20Middle%20Last%20Letter/main.cpp)
