@@ -92,5 +92,6 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 ####    	Caturday Check
 [code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Caturday%20Check/main.cpp)
 ####    	Sher
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Sher/main.cpp)
 
 ####    	Tag Remover
