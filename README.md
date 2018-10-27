@@ -61,8 +61,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
          
          Read in a number (double). Print the power of two that the number represents.
 
-## Loops
-
+## Loops 🔃 🔁
 #### Counting 1
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Counting%201/main.cpp)
 
@@ -77,7 +76,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 #### Squares Adder
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Squares%20Adder/main.cpp)
 
-## Nested Loops
+## Nested Loops 🔃 🔁
 
 ####	Square printer
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Square%20printer/main.cpp)
@@ -85,7 +84,7 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 ####	Triangle Printer
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Triangle%20Printer/main.cpp)
 
-## String Basics
+## String Basics 
 
 ####     First Middle Last Letter
 [code here](https://github.com/francisknight/CPP-Tidbits/blob/master/First%20Middle%20Last%20Letter/main.cpp)
