@@ -96,3 +96,11 @@ Useful C++ practice &amp; tips -- Update Weekly 🔥
 
 ####    	Tag Remover
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Tag%20Remover/main.cpp)
+
+ #### C To F
+ 
+ #### MyMin
+ 
+ #### Print Stars
+ 
+ #### BMI Calc
