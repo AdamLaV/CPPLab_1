@@ -1,4 +1,4 @@
-## CPP Tidbits
+# CPP Tidbits
 Useful C++ practice &amp; tips -- Update Weekly 🔥
 ## Conditionals
 #####	Rock Paper Scissors 🎲
