@@ -114,9 +114,11 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
  ## Function 2 🔅 🔅
  
  #### 	Midpoint Finder
+ [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Midpoint%20Finder/main.cpp)
  
- ####	Quadratic Solver
+ ####    Quadratic Solver
+ [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Quadratic%20Solver/main.cpp)
 
- ####	String Trim1
+ ####    String Trim1
  
- ####	String Trim2
+ ####    String Trim2
