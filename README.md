@@ -110,3 +110,5 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
  
  #### BMI Calc
  [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/BMI%20Calc/main.cpp)
+ 
+ ## Function 2 🔅 🔅
