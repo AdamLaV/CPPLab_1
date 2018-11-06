@@ -112,3 +112,11 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
  [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/BMI%20Calc/main.cpp)
  
  ## Function 2 🔅 🔅
+ 
+ #### 	Midpoint Finder
+ 
+ ####	Quadratic Solver
+
+ ####	String Trim1
+ 
+ ####	String Trim2
