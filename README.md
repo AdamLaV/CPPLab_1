@@ -100,9 +100,13 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 ## Function Basics 🔅 🔅
 
  #### C To F
+ [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/C%20To%20F/main.cpp)
  
  #### MyMin
+ [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/MyMin/main.cpp)
  
  #### Print Stars
+ [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Print%20Stars/main.cpp)
  
  #### BMI Calc
+ [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/BMI%20Calc/main.cpp)
