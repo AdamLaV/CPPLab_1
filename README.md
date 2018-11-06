@@ -123,3 +123,4 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
  [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/String%20Trim1/main.cpp)
  
  ####    String Trim2
+ [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/String%20Trim2/main.cpp)
