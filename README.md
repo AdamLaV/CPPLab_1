@@ -149,4 +149,6 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 
 ## C IO 
 ####     Simple Scanf
-                  coming soon...
+                  Read in three integer values and print out their sum.
+                  You MUST use C based functions (scanf/printf)
+                  [code here]()
