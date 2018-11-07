@@ -135,3 +135,5 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 
 ####     Clear Negatives
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Clear%20Negatives/main.cpp)
+
+## Array Functions [🤖, 🤖, 🤖]
