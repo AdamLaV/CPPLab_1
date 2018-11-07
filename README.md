@@ -164,5 +164,9 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 
 ## CStrings
 ####     Read CString
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Read%20CString/main.cpp)
+
+         Declare a c-string with room for at least 20 chars. 
+         Read in a string from the console and print it back out.
          
 ####     CString Count E's
