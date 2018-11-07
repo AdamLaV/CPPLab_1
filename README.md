@@ -156,3 +156,7 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 ####     C Money Printer
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/C%20Money%20Printer/main.cpp)
 
+                  Read in a double using scanf. Then use printf to print it formatted as money - should start with a $ sign,
+                  and be rounded to 2 decimals ($0.40 not $0.4).
+                  
+
