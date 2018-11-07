@@ -128,5 +128,7 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
  ## Arrays [🐶, 🐶, 🐶]
  
  ####    Declare an array
+ [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Declare%20an%20array/main.cpp)
+ 
 ####     Swap Ends
 ####     Clear Negatives
