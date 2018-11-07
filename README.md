@@ -142,4 +142,6 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Add%20Negatives/main.cpp)
 
 ####     Square Array
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Square%20Array/main.cpp)
+
 ####     Largest Two
