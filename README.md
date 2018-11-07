@@ -126,3 +126,7 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
  [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/String%20Trim2/main.cpp)
  
  ## Arrays [🐶, 🐶, 🐶]
+ 
+ ####    Declare an array
+####     Swap Ends
+####     Clear Negatives
