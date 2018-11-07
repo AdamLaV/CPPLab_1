@@ -148,4 +148,5 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Largest%20Two/main.cpp)
 
 ## C IO 
+####     Simple Scanf
                   coming soon...
