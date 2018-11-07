@@ -137,3 +137,7 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Clear%20Negatives/main.cpp)
 
 ## Array Functions [🤖, 🤖, 🤖]
+
+####     Add Negatives
+####     Square Array
+####     Largest Two
