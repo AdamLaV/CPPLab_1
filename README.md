@@ -163,3 +163,6 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
                   
 
 ## CStrings
+####     Read CString
+         
+####     CString Count E's
