@@ -149,7 +149,8 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 
 ## C IO 
 ####     Simple Scanf
- [code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Simple%20Scanf/main.cpp)
+[code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Simple%20Scanf/main.cpp)
+
                   Read in three integer values and print out their sum.
-                  You MUST use C based functions (scanf/printf)
+                  Use C based functions (scanf/printf).
                  
