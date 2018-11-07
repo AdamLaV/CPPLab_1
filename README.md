@@ -153,4 +153,6 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 
                   Read in three integer values and print out their sum.
                   Use C based functions (scanf/printf).
-                 
+####     C Money Printer
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/C%20Money%20Printer/main.cpp)
+
