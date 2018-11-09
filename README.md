@@ -160,7 +160,7 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
            and be rounded to 2 decimals ($0.40 not $0.4).
            
 ####     Printf Fraction
-[Code here]
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Printf%20Fraction/main.cpp)
                   
 
 ## CStrings
