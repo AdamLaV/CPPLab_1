@@ -18,7 +18,5 @@ int main()
 	}
 	else {
 		cout << "B";
-	}
-	
-	
+	}	
 }
