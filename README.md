@@ -175,3 +175,5 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 ## Multidimensional Arrays
 ####     Matrix Additive Inverse
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Matrix%20Additive%20Inverse/main.cpp)
+
+####     Row Sums
