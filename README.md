@@ -171,3 +171,5 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
          Read in a string from the console and print it back out.
          
 ####     CString Count E's
+
+## Multidimensional Arrays
