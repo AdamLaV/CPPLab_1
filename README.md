@@ -177,3 +177,4 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Matrix%20Additive%20Inverse/main.cpp)
 
 ####     Row Sums
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Row%20Sums/main.cpp)
