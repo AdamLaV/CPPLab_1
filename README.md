@@ -178,3 +178,5 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 
 ####     Row Sums
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Row%20Sums/main.cpp)
+
+####     Diagonal Adder
