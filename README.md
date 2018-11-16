@@ -180,3 +180,4 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Row%20Sums/main.cpp)
 
 ####     Diagonal Adder
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Diagonal%20Adder/main.cpp)
