@@ -173,3 +173,5 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 ####     CString Count E's
 
 ## Multidimensional Arrays
+####     Matrix Additive Inverse
+[Code here]
