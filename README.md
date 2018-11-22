@@ -183,3 +183,6 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Diagonal%20Adder/main.cpp)
 
 ##       Enumerations 🦅
+
+####     Directions
+[Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Directions/main.cpp)
