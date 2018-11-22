@@ -188,3 +188,11 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Directions/main.cpp)
 
 ##       Structs ⛰
+
+####     Car Definition
+
+####     Date Printer
+
+####     Midpoint Struct
+	
+####     High Card
