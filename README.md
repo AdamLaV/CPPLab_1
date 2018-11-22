@@ -187,4 +187,4 @@ Useful C++ practices &amp; tips -- Update Weekly 🔥
 ####     Directions
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Directions/main.cpp)
 
-##       Structs
+##       Structs ⛰
