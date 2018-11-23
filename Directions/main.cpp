@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 //Do not modify anything on or above the line below this
