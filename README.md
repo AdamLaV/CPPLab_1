@@ -1,5 +1,5 @@
 # CPP Tidbits
-Useful C++ practices &amp; tips -- Update Weekly 🔥
+My solutions to CS161 CPPLab
 ## Conditionals
 #####	Rock Paper Scissors 🎲
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Rock%20Paper%20Scissors/main.cpp)
