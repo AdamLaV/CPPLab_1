@@ -1,5 +1,5 @@
 ----------------------- ------------------------------------
-My Solutions to CS161 CPPLab 
+Solutions to CS161 CPPLab 
 
 🔥 ![Check out CS162 CPPLab](https://github.com/francisknight/CPPLab) 🔥
 
