@@ -3,7 +3,7 @@ My Solutions to CS161 CPPLab
 
 Check out [CS162](https://github.com/francisknight/CPPLab) CPPLab
 
-# Simple Run
+Some Examples below: 
 ## Conditionals
 #####	Rock Paper Scissors 🎲
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Rock%20Paper%20Scissors/main.cpp)
