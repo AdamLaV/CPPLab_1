@@ -1,8 +1,6 @@
 # CPP Tidbits
 My Solutions to CS161 CPPLab 
 
-Check out [CS162](https://github.com/francisknight/CPPLab) CPPLab
-
 ----------------------- ------------------------------------
 ![Check out CS162 CPPLab](https://github.com/francisknight/CPPLab) Table multiline text bla bla bla bla
                         bla bla bla bla bla bla bla ... the
