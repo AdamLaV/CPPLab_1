@@ -186,7 +186,7 @@ Check out [CS162](https://github.com/francisknight/CPPLab) CPPLab
 
 ##       Enumerations 🦅
 
-####     Directions
+####     Directions 
 [Code here](https://github.com/francisknight/CPP-Tidbits/blob/master/Directions/main.cpp)
 
 ####	RPS Enumeration
