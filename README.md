@@ -4,7 +4,7 @@ My Solutions to CS161 CPPLab
 Check out [CS162](https://github.com/francisknight/CPPLab) CPPLab
 
 ----------------------- ------------------------------------
-![Tip](images/tip.png)\ Table multiline text bla bla bla bla
+![CS162](https://github.com/francisknight/CPPLab) Table multiline text bla bla bla bla
                         bla bla bla bla bla bla bla ... the
                         blank line below is important 
 
