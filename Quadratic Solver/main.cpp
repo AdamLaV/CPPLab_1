@@ -5,7 +5,7 @@ using namespace std;
 //YOUR_CODE_BELOW
 
 void solveQuadratic(double a, double b, double c, double& x1, double& x2) {
-	    x1 = (-b + (sqrt(pow(b, 2) - (4 * a * c)))) / (2 * a);
+	x1 = (-b + (sqrt(pow(b, 2) - (4 * a * c)))) / (2 * a);
         x2 = (-b - (sqrt(pow(b, 2) - (4 * a * c)))) / (2 * a);
 }
 
@@ -17,5 +17,5 @@ int main()
     double in1, in2, in3;
     cin >> in1 >> in2 >>  in3;
     solveQuadratic(in1, in2, in3, answer1, answer2);
-    cout << answer1<< ", " << answer2<< endl;
+    cout << answer1<< ", " << answer2 << endl;
 }
