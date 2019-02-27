@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    double number;
+	double number;
 	cin >> number;
 	
 	double power = log(number) / log(2);
