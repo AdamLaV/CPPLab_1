@@ -23,7 +23,7 @@ void printLargestTwo(int values[], int NUM_VALUES) {
     else if(values[i] > secondLarge){
         secondLarge = values[i];
     }
-    }
+   }
 	
 	cout << firstLarge << " " << secondLarge;
 }
