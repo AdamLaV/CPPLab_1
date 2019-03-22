@@ -2,10 +2,6 @@
 
 using namespace std;
 
-
-//Do not modify anything on or above the line below this
-//YOUR_CODE_BELOW
-
 int addNegatives(int values[], int NUM_VALUES) {
 	int negativeSum = 0;
 	  for(int i = 0; i < NUM_VALUES; i++) {
@@ -14,10 +10,6 @@ int addNegatives(int values[], int NUM_VALUES) {
     }
 	return negativeSum;
 }
-
-
-//YOUR_CODE_ABOVE
-//Do not modify anything on or below the line above this
 
 int main()
 {

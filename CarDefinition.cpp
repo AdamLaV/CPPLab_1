@@ -4,17 +4,11 @@
 
 using namespace std;
 
-//Do not modify anything on or above the line below this
-//YOUR_CODE_BELOW
-
     struct Car {
 		string make;
 		string model;
 		int year;
 	};
-
-//YOUR_CODE_ABOVE
-//Do not modify anything on or below the line above this
 
 int main()
 {
